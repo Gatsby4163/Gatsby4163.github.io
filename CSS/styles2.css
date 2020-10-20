@@ -1,0 +1,101 @@
+body{
+
+}
+.navbar-dark{
+background-color: #778899;
+
+}
+
+.nav-link{
+margin: 11% 14%;
+font-weight: bold;
+font-family: 'Montserrat', sans-serif;
+font-size: 1.3rem;
+}
+
+.navbar{
+  padding-left: 58%;
+}
+
+#footer{
+
+padding: 1% 15%;
+padding-bottom: 0;
+  text-align: center;
+  background-color: #fff;
+  color:black;
+}
+
+.icon{
+  margin: 3% 2%;
+}
+
+#main-body{
+
+margin:2% 7%;
+margin-top: 1%;
+
+}
+
+.col-md-6{
+  padding-top: 7%;
+
+}
+
+.txtNew{
+  line-height: 2rem;
+}
+
+.font_8{
+  font-size: 1rem;
+
+}
+.row{
+  height:500px;
+}
+
+
+.font_5{
+  font-weight: bold;
+}
+.font_8{
+padding-top: 2%;
+padding-right: 9%;
+  line-height: 2rem;
+}
+
+
+.back-color{
+
+height:540px;
+width:500px;
+border-width: thick;
+border-color: black;
+background-color: #343a40;
+position:absolute;
+top:0;
+margin-left: 15;
+text-align: center;
+}
+
+.abou{
+  width: 70%;
+  margin-top: 25%;
+  margin-left: 14%;
+}
+.fom{
+  height:450px;
+  width:350px;
+background-color: #fff;
+position: absolute;
+top: 11.5%;
+margin-left:30%;
+border-style: solid;
+border-width: 1.5px;
+}
+
+.nam{
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}

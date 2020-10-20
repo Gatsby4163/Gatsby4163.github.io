@@ -1,0 +1,134 @@
+
+.navbar-dark{
+background-color: #778899;
+
+}
+
+.nav-link{
+margin: 11% 14%;
+font-weight: bold;
+font-family: 'Montserrat', sans-serif;
+font-size: 1.3rem;
+}
+
+.navbar{
+  padding-left: 58%;
+}
+
+#footer{
+
+padding: 2% 15%;
+  text-align: center;
+  background-color: #fff;
+  color:black;
+}
+
+.icon{
+  margin: 3% 2%;
+}
+
+
+.web{
+  float: left;
+  width: 15%;
+  margin-right: 7%;
+}
+.chi{
+  float: right;
+  width: 15%;
+  position: relative;
+  right:9%;
+}
+
+.Programming{
+  float: left;
+  width: 15%;
+  margin-right: 7%;
+}
+
+
+
+
+.skill-row{
+  width:50%;
+  margin:70px auto;
+  text-align: left;
+}
+
+hr{
+  border-bottom: none;
+color: grey;
+border-style: dotted none none none;
+border-width: thick;
+width: 10%;
+text-align: center;
+margin-top: 5%;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 3rem;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 4%;
+}
+h3{
+  line-height: 2;
+}
+.skills{
+  text-align: center;
+}
+
+
+.we{
+  text-align: left;
+  line-height: 2;
+
+}
+.chill{
+  text-align: left;
+  line-height: 2;
+
+}
+
+.ins{
+  text-align: left;
+  line-height: 2;
+
+}
+
+
+.back-color{
+
+height:400px;
+width:800px;
+border-width: thick;
+
+background-color: #343a40;
+
+
+margin-left:5% ;
+margin-bottom: 5%;
+}
+
+.fom{
+  height:400px;
+  width:980px;
+background-color: #fff;
+position: absolute;
+top: 11.5%;
+margin-left:30%;
+border-style: solid;
+border-width: 1.5px;
+text-align: center;
+padding-top: 5%;
+
+}
+
+
+.hacker{
+  margin-top: 3%;
+  width:15%;
+}
